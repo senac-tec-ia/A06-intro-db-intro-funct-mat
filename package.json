@@ -11,6 +11,9 @@
     "export:pptx": "slidev export slides.md --format pptx --output aula-export.pptx",
     "publish": "npm run build && node .github/scripts/publish.mjs"
   },
+  "engines": {
+    "node": ">=18"
+  },
   "slidev": {
     "colorSchema": "dark"
   },
