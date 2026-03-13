@@ -585,7 +585,7 @@ pulse: true
 | "Filtrar" apenas linhas que atendem a condição | `___________` |
 | "Ordenar" os resultados | `___________` |
 
-> **Respostas:** SELECT / FROM / WHERE / ORDER BY
+<!--- **Respostas:** SELECT / FROM / WHERE / ORDER BY ---> 
 > O SQL foi criado para soar como inglês comum: *"Select CustomerName from Customers where Country = 'Brazil'"* qualquer pessoa entende!
 
 ---
